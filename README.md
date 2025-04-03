@@ -20,3 +20,4 @@ module "vpc" {
     "private" = { az = "ap-southeast-1b", cidr_block = "10.0.1.0/24" }
   }
 }
+```
