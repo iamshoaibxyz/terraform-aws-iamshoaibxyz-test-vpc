@@ -1,0 +1,7 @@
+schema_version: 1
+name: "vpc"
+description: "A Terraform module to create a VPC with public and private subnets."
+version: "0.1.0"
+maintainers:
+  - name: "Shoaib"
+    email: "iamshoaibxyz@gmail.com"
