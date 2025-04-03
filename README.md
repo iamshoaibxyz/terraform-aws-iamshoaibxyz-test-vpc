@@ -8,7 +8,7 @@ To use this module, specify the VPC configuration and subnet configuration in yo
 
 ```hcl
 module "vpc" {
-  source = "./module-vpc"
+  source = "./terraform-aws-iamshoaibxyz-test-vpc"
   
   vpc_config = {
     cidr = "10.0.0.0/16"
